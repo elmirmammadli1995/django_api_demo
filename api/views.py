@@ -3,7 +3,7 @@ from rest_framework.response import Response
 
 
 @api_view(['GET'])
-def demo_api(equest):
+def demo_api(request):
 
     return Response({
         "id": 1, 
