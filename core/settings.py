@@ -47,7 +47,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://elmirmammadli1995.github.io"
+    "https://elmirmammadli1995.github.io",
 ]
 
 
